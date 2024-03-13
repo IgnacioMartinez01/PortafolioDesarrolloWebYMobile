@@ -1,0 +1,16 @@
+div{
+    background-color:blue
+}
+button:hover{
+    color:blue
+}
+body article p
+{
+    color:orange
+}
+ol>li{
+    border-top:3px solid orange
+}
+div+p{
+    color:violet
+}
